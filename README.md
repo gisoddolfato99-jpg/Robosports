@@ -46,6 +46,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 > * **Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
 > * **Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
 
+<br>
 
 ###  Galería de Fotos
 
@@ -55,7 +56,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 <br>
 
-div align="center"><table><tr>Robot de la rampa</tr><tr><td>
+<div align="center"><table><tr>Robot de la rampa</tr><tr><td>
 <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/5d15b8e690788a2a1fb1196902a3e4971874338b/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.55%20PM.jpeg"/></td><td>
 <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/5d15b8e690788a2a1fb1196902a3e4971874338b/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.59%20PM.jpeg"/></td></tr></table></div>
 
