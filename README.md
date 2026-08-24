@@ -5,12 +5,6 @@
 ---
 <br>
 
-> [!IMPORTANT]
-> The install script will auto-detect an NVIDIA card and install a matching DKMS driver path for your kernel.
-> Newer cards may use `nvidia-dkms` / `nvidia-open-dkms`, while legacy cards should be checked first against [`Scripts/nvidia-db/`](./Scripts/nvidia-db/).
-> Please ensure that your NVIDIA card supports the DKMS driver family selected for it in the list provided [here](https://wiki.archlinux.org/title/NVIDIA).
->
-> If a DKMS package is selected, expect a local module build for the current kernel during installation. This can take several minutes and may happen even when an NVIDIA DKMS package was already installed, because DKMS rebuilds modules for the active kernel.
 
 # WRO RoboSports - [Kicktronics] 🎾
 
@@ -45,10 +39,12 @@
 
 Para construir los robots, utilizamos dos idénticos, pero con una distinta estructura de sensores y diferente programación.
 
-### 🛠️ Hardware y Componentes
-* **Controlador Principal:** LEGO SPIKE Prime
-* **Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
-* **Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
+
+> [!Hardware y Componentes] 
+>**Controlador Principal:** LEGO SPIKE Prime
+>**Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
+>**Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
+
 
 
 ### 📐 Galería de Fotos
