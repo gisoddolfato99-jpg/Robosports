@@ -1,7 +1,5 @@
+![image alt](https://github.com/gisoddolfato99-jpg/Robosports/blob/ad2694a118b114337a687732f3f99ac671aa8314/feature/supoer.jpg)
 
-<div align="center">
-  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/ad2694a118b114337a687732f3f99ac671aa8314/feature/supoer.jpg" width="300" />
-</div>
 
 # WRO RoboSports - [Kicktronics] 🎾
 
