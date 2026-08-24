@@ -6,9 +6,12 @@
 * **Categoría de Edad:** [Ej. 11-19 años / Senior]
 * **Integrantes:**
   * [Yuming Zhen Wang]
-  * [Valerie]
-  * [Maikel]  
-* **Tutor:** [Elkira]
+    <div align="right">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
+</div>
+  * [Valerie Artavia Céspedes]
+  * [Maykel Gabriel Francis Hernández]  
+* **Tutor:** [Elkira Francis Hernández]
 
 ---
 
