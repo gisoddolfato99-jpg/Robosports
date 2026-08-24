@@ -18,20 +18,28 @@ Este es el repositorio oficial de Robo Sports de KickTronics.
   <div align="left">
   <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.23%20PM.jpeg" width="300" />
 </div>
+
 <br>
 
 * **Valerie Artavia Céspedes**
     <div align="left">
   <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.22%20PM.jpeg" width="300" />
 </div>
+
 <br>
 
 * **Maykel Gabriel Francis Hernández**
     <div align="left">
   <img src="feature/WhatsApp Image 2026-08-24 at 3.07.22 PM (1).jpeg" width="300" height="400" />
 </div>
+
+<br>
   
 * **Tutor:** Elkira Francis Hernández
+  <div align="left">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/7e591b46830c22a55a88fd3e2ce2d9de683d906f/feature/WhatsApp%20Image%202026-08-24%20at%204.52.05%20PM.jpeg" width="300" height="400" />
+</div>
+
 
 ---
 
