@@ -5,7 +5,7 @@
 ## Nuestro Equipo
 * **Categoría de Edad:** [Ej. 11-19 años / Senior]
 * **Integrantes:**
-  
+<br>
 * **Yuming Zhen Wang**
   <div align="left">
   <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.23%20PM.jpeg" width="300" />
