@@ -40,11 +40,11 @@
 Para construir los robots, utilizamos dos idénticos, pero con una distinta estructura de sensores y diferente programación.
 
 
-> [!Hardware y Componentes] 
-> **Controlador Principal:** LEGO SPIKE Prime
-> **Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
-> **Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
-
+> [!NOTE]
+> **Hardware y Componentes**
+> * **Controlador Principal:** LEGO SPIKE Prime
+> * **Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
+> * **Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
 
 
 ### 📐 Galería de Fotos
