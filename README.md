@@ -48,6 +48,8 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 <br>
 
+--- 
+
 ###  Galería de Fotos
 
 <br>
