@@ -3,7 +3,7 @@
 <br>
 
 ---
-
+<br>
 # WRO RoboSports - [Kicktronics] 🎾
 
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
