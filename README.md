@@ -67,6 +67,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 
 ---
+<br>
 
 > [!IMPORTANT]
 >### 🕹️ Roles en la Cancha
@@ -74,7 +75,14 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 > **Robot 2 (Robot de la rampa):** Tira las bolas cuando detecta un colór en específico.
 
 ### 💻 Arquitectura del Código
-El software está programado en **[Lenguaje: ej. Python / C++ / Bloques SPIKE]**. El algoritmo principal utiliza una **Máquina de Estados Finitos (FSM)** dividida en las siguientes fases:
+El software está programado en **Python/Bloques**.
+
+<br>
+
+El robot de la rampa se divide en estas fases:
+
+<br>
+
 1. **Búsqueda:** El robot gira hasta que la cámara detecta el color de la pelota.
 2. **Persecución:** Se alinea con el objeto y avanza utilizando control proporcional.
 3. **Ataque:** Activa el mecanismo de golpeo/empuje al estar a la distancia correcta.
