@@ -68,11 +68,10 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 ---
 
-## 🧠 Estrategia de Juego y Software
-
-### 🕹️ Roles en la Cancha
-* **Robot 1 ([Robot del muro]):** [Tira las bolas mediante los choques].
-* **Robot 2 ([Robot de la rampa]):** [Tira las bolas cuando detecta un colór en específico].
+> [!IMPORTANT]
+>### 🕹️ Roles en la Cancha
+> **Robot 1 (Robot del muro):** Tira las bolas mediante los choques.
+> **Robot 2 (Robot de la rampa):** Tira las bolas cuando detecta un colór en específico.
 
 ### 💻 Arquitectura del Código
 El software está programado en **[Lenguaje: ej. Python / C++ / Bloques SPIKE]**. El algoritmo principal utiliza una **Máquina de Estados Finitos (FSM)** dividida en las siguientes fases:
