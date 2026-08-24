@@ -81,12 +81,11 @@ El software está programado en **Python/Bloques**.
 
 El robot de la rampa se divide en estas fases:
 
-<br>
-
-1. **Búsqueda:** El robot gira hasta que la cámara detecta el color de la pelota.
-2. **Persecución:** Se alinea con el objeto y avanza utilizando control proporcional.
-3. **Ataque:** Activa el mecanismo de golpeo/empuje al estar a la distancia correcta.
-4. **Retorno:** Si pierde la pelota o sale de la zona, regresa usando los sensores de línea.
+1. **Avance:** El robot avanza hasta que la cámara detecta el color de la rampa.
+2. **Tiro:** Cuando el robot está en el color adecuado tira la pelota.
+3. **Bucle:** Luego de tirarla, el robot gira y choca contra el muro para crear un ciclo donde queda dando vueltas y tirando las pelotas.
+> [!NOTE]
+> El robot frena su recorrido si detecta la bola rosa (en los dos prototipos).
 
 ---
 
