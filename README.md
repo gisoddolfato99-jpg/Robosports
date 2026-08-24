@@ -77,7 +77,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 ### 💻 Arquitectura del Código
 
-El robot de la rampa se divide en estas fases:
+**El robot de la rampa se divide en estas fases:**
 
 1. **Avance:** El robot avanza hasta que la cámara detecta el color de la rampa.
 2. **Tiro:** Cuando el robot está en el color adecuado tira la pelota.
@@ -85,7 +85,7 @@ El robot de la rampa se divide en estas fases:
 
 <br>
 
-El robot del muro se divide en estas fases:
+**El robot del muro se divide en estas fases:**
 
 1. **Avance:** El robot avanza hasta chocar el muro y tira las bolas.
 2. **Bucle:** Cuando choca, retrocede y gira. Después de hacer este patrón 4 veces, vuelve a tirar la pelota.
@@ -102,9 +102,9 @@ El robot del muro se divide en estas fases:
 ## 🚀 Instalación y Uso
 
 ### Requisitos Previos
-* [Tener Chrome o cualquier navegador compatible con Lego Spike Prime]
-* [Kits de Lego Spike]
-* [Tener computadoras]
+* Tener Chrome o cualquier navegador compatible con Lego Spike Prime
+* Kit de Lego Spike
+* Tener computadora
 
 ### Pasos para Ejecutar
 1. Clona este repositorio:
@@ -117,6 +117,4 @@ El robot del muro se divide en estas fases:
 
 ---
 
-## 📺 Demostración en Video
-Puedes ver a nuestros robots en acción durante una partida de práctica en el siguiente enlace:
-* 🎬 [Ver video de demostración en YouTube](https://youtube.com)
+
