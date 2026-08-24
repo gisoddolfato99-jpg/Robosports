@@ -35,7 +35,7 @@ Este es el repositorio oficial de Robo Sports de KickTronics.
 
 <br>
   
-* **Tutor:** Elkira Francis Hernández
+* **Tutor: Elkira Francis Hernández**
   <div align="left">
   <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/7e591b46830c22a55a88fd3e2ce2d9de683d906f/feature/WhatsApp%20Image%202026-08-24%20at%204.52.05%20PM.jpeg" width="300" height="400" />
 </div>
