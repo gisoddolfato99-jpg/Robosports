@@ -11,7 +11,7 @@
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
 
 ## Nuestro Equipo
-* **Categoría de Edad:** [Ej. 11-19 años / Senior]
+* **Categoría de Edad:** Senior
 * **Integrantes:**
   
 * **Yuming Zhen Wang**
