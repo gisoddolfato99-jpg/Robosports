@@ -10,6 +10,9 @@
   <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
 </div>
   * [Valerie Artavia Céspedes]
+  <div align="right">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
+</div>
   * [Maykel Gabriel Francis Hernández]
   <div align="left">
   <img src="feature/WhatsApp Image 2026-08-24 at 3.07.22 PM (1).jpeg" width="300" height="400" />
