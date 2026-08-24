@@ -82,6 +82,16 @@ El robot de la rampa se divide en estas fases:
 1. **Avance:** El robot avanza hasta que la cámara detecta el color de la rampa.
 2. **Tiro:** Cuando el robot está en el color adecuado tira la pelota.
 3. **Bucle:** Luego de tirarla, el robot gira y choca contra el muro para crear un ciclo donde queda dando vueltas y tirando las pelotas.
+
+<br>
+
+El robot del muro se divide en estas fases:
+
+1. **Avance:** El robot avanza hasta chocar el muro y tira las bolas.
+2. **Bucle:** Cuando choca, retrocede y gira. Después de hacer este patrón 4 veces, vuelve a tirar la pelota.
+
+<br>
+
 > [!NOTE]
 > El robot frena su recorrido si detecta la bola rosa (en los dos prototipos).
 >
