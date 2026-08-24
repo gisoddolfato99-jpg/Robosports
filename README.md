@@ -6,13 +6,13 @@
 * **Categoría de Edad:** [Ej. 11-19 años / Senior]
 * **Integrantes:**
   * **Yuming Zhen Wang**
-    <div align="right">
-  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
+    <div align="left">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.23%20PM.jpeg" width="300" />
 </div>
 
   * **Valerie Artavia Céspedes**
-  <div align="right">
-  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
+  <div align="left">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.22%20PM.jpeg" width="300" />
 </div>
 
   * **Maykel Gabriel Francis Hernández**
