@@ -106,14 +106,11 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 * Kit de Lego Spike
 * Tener computadora
 
-### Pasos para Ejecutar
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com[tu-usuario]/[tu-repositorio].git
-   ```
-2. Abre la carpeta del proyecto en tu entorno de desarrollo.
-3. Conecta el bloque inteligente del Robot 1 vía USB/Bluetooth y carga el archivo `src/robot1_main.[ext]`.
-4. Repite el proceso para el Robot 2 con el archivo `src/robot2_main.[ext]`.
+### Códigos de los robots
+> [!NOTE]
+> https://github.com/gisoddolfato99-jpg/Robosports/blob/82f5cc97d1758ba51a083700d5b16588b7df5a77/c%C3%B3digos/Romuro.py
+
+
 
 ---
 
