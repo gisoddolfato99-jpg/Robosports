@@ -40,7 +40,7 @@
 Para construir los robots, utilizamos dos idénticos, pero con una distinta estructura de sensores y diferente programación.
 
 
-> [!NOTE]
+> [!Hardware y Componentes]
 > **Hardware y Componentes**
 > * **Controlador Principal:** LEGO SPIKE Prime
 > * **Actuadores:** 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo
