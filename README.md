@@ -24,12 +24,8 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 ### 📐 Galería de Fotos
 *(Descomenta y cambia las rutas cuando subas las fotos a tu repositorio)*
-<!--
 
-| Vista Frontal | Vista Superior | Vista Lateral |
-|---|---|---|
-| ![Frontal](fotos/frontal.jpg) | ![Superior](fotos/superior.jpg) | ![Lateral](fotos/lateral.jpg) |
--->
+![image alt](https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg)
 
 ---
 
