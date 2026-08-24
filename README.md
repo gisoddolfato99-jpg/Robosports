@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.23%20PM.jpeg" width="300" />
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/0a7d09063bfee9069e101f4300c7536ea5fb5949/feature/Unknown.jpg" width="300" />
 </div>
 
 # WRO RoboSports - [Kicktronics] 🎾
