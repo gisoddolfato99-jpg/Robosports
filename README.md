@@ -47,12 +47,19 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 > * **Sensores:** 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes
 
 
-### 📐 Galería de Fotos
-*(Descomenta y cambia las rutas cuando subas las fotos a tu repositorio)*
+###  Galería de Fotos
+
+**Robot del muro**
 
 <div align="center">
-  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/e5f47aa52c6cea7db0f4fe8c18e818d2528a5866/gta.jpg" width="300" />
+  <table><tr><td>
+
+![image alt](https://github.com/gisoddolfato99-jpg/Robosports/blob/fb2c760a20bfd880a7ba884b4ba6023ceec8b445/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.47%20PM.jpeg)
+![image alt](https://github.com/gisoddolfato99-jpg/Robosports/blob/fb2c760a20bfd880a7ba884b4ba6023ceec8b445/feature/prototipo/1/1a.jpeg)
+
+  </td></tr></table>
 </div>
+
 
 
 
