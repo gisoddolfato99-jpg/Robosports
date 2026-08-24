@@ -5,6 +5,13 @@
 ---
 <br>
 
+> [!IMPORTANT]
+> The install script will auto-detect an NVIDIA card and install a matching DKMS driver path for your kernel.
+> Newer cards may use `nvidia-dkms` / `nvidia-open-dkms`, while legacy cards should be checked first against [`Scripts/nvidia-db/`](./Scripts/nvidia-db/).
+> Please ensure that your NVIDIA card supports the DKMS driver family selected for it in the list provided [here](https://wiki.archlinux.org/title/NVIDIA).
+>
+> If a DKMS package is selected, expect a local module build for the current kernel during installation. This can take several minutes and may happen even when an NVIDIA DKMS package was already installed, because DKMS rebuilds modules for the active kernel.
+
 # WRO RoboSports - [Kicktronics] 🎾
 
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
