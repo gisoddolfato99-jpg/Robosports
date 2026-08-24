@@ -1,3 +1,8 @@
+
+div align="center">
+  <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/dc21c7bda6b01fd8de196f96a23b14380affde4b/feature/WhatsApp%20Image%202026-08-24%20at%203.07.23%20PM.jpeg" width="300" />
+</div>
+
 # WRO RoboSports - [Kicktronics] 🎾
 
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
