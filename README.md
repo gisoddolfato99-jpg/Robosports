@@ -1,14 +1,14 @@
-# WRO RoboSports - [Nombre de tu Equipo] 🤖🎾
+# WRO RoboSports - [Kicktronics] 🤖🎾
 
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
 
 ## 👥 Nuestro Equipo
-* **País:** [Tu País]
 * **Categoría de Edad:** [Ej. 11-19 años / Senior]
 * **Integrantes:**
-  * [Nombre Integrante 1] - [Rol: ej. Programador / Mecánico]
-  * [Nombre Integrante 2] - [Rol: ej. Diseñador / Programador]
-* **Tutor:** [Nombre del Tutor/Entrenador]
+  * [Yuming Zhen Wang]
+  * [Valerie]
+  * [Maikel]  
+* **Tutor:** [Elkira]
 
 ---
 
@@ -17,10 +17,10 @@
 Para cumplir con el reto de RoboSports, diseñamos dos robots idénticos/especializados que respetan estrictamente las reglas oficiales de la WRO (**20x20x20 cm** y menos de **1.2 kg**).
 
 ### 🛠️ Hardware y Componentes
-* **Controlador Principal:** [Ej. LEGO SPIKE Prime / EV3 / Arduino]
+* **Controlador Principal:** [LEGO SPIKE Prime]
 * **Actuadores:** [Ej. 2x Motores grandes para tracción, 1x Motor mediano para el mecanismo de golpeo]
-* **Sensores:** [Ej. 1x Giroscopio interno, 2x Sensores de color para detección de líneas]
-* **Cámara de Visión:** [Ej. Pixy2 / OpenMV] (Configurada para detectar las firmas de color de las pelotas).
+* **Sensores:** [Ej. 1x Giroscopio interno, 2x Sensores de color para detección de bola rosa, 1x sensor de fuerza para los golpes]
+
 
 ### 📐 Galería de Fotos
 *(Descomenta y cambia las rutas cuando subas las fotos a tu repositorio)*
@@ -36,8 +36,8 @@ Para cumplir con el reto de RoboSports, diseñamos dos robots idénticos/especia
 ## 🧠 Estrategia de Juego y Software
 
 ### 🕹️ Roles en la Cancha
-* **Robot 1 ([Nombre]):** [Ej. Atacante principal, busca las pelotas usando la cámara y las empuja al campo contrario].
-* **Robot 2 ([Nombre]):** [Ej. Defensor / Soporte, se mantiene en la línea trasera cubriendo los espacios vacíos].
+* **Robot 1 ([Robot del muro]):** [Tira las bolas mediante los choques].
+* **Robot 2 ([Robot de la rampa]):** [Tira las bolas cuando detecta un colór en específico].
 
 ### 💻 Arquitectura del Código
 El software está programado en **[Lenguaje: ej. Python / C++ / Bloques SPIKE]**. El algoritmo principal utiliza una **Máquina de Estados Finitos (FSM)** dividida en las siguientes fases:
@@ -51,8 +51,9 @@ El software está programado en **[Lenguaje: ej. Python / C++ / Bloques SPIKE]**
 ## 🚀 Instalación y Uso
 
 ### Requisitos Previos
-* [Ej. VS Code con extensión LEGO SPIKE / Software de SPIKE Prime]
-* [Ej. Librería de Pixy2 para LEGO]
+* [Tener Chrome o cualquier navegador compatible con Lego Spike Prime]
+* [Kits de Lego Spike]
+* [Tener computadoras]
 
 ### Pasos para Ejecutar
 1. Clona este repositorio:
