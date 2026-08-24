@@ -12,7 +12,7 @@
   * [Valerie Artavia Céspedes]
   * [Maykel Gabriel Francis Hernández]
   <div align="left">
-  <img src="feature/WhatsApp Image 2026-08-24 at 3.07.22 PM (1).jpeg" width="300" height="200" />
+  <img src="feature/WhatsApp Image 2026-08-24 at 3.07.22 PM (1).jpeg" width="300" height="250" />
 </div>
   
 * **Tutor:** [Elkira Francis Hernández]
