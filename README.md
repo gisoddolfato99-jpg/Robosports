@@ -1,8 +1,8 @@
-# WRO RoboSports - [Kicktronics] 🤖🎾
+# WRO RoboSports - [Kicktronics] 🎾
 
 ¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
 
-## 👥 Nuestro Equipo
+## Nuestro Equipo
 * **Categoría de Edad:** [Ej. 11-19 años / Senior]
 * **Integrantes:**
   * [Yuming Zhen Wang]
@@ -12,9 +12,9 @@
 
 ---
 
-## 🤖 Descripción de los Robots
+## Descripción de los Robots 🤖
 
-Para cumplir con el reto de RoboSports, diseñamos dos robots idénticos/especializados que respetan estrictamente las reglas oficiales de la WRO (**20x20x20 cm** y menos de **1.2 kg**).
+Para construir los robots, utilizamos dos idénticos, pero con una distinta estructura de sensores y diferente programación.
 
 ### 🛠️ Hardware y Componentes
 * **Controlador Principal:** [LEGO SPIKE Prime]
