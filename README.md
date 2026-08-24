@@ -8,7 +8,7 @@
 
 # WRO RoboSports - [Kicktronics] 🎾
 
-¡Bienvenidos al repositorio oficial de nuestro equipo para la categoría **WRO RoboSports**! Aquí encontrarás la documentación técnica, el diseño de hardware y el código fuente de nuestros dos robots autónomos.
+Este es el repositorio oficial de Robo Sports de KickTronics.
 
 ## Nuestro Equipo
 * **Categoría de Edad:** Senior
