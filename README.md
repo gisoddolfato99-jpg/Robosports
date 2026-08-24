@@ -76,9 +76,6 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 > * **Robot 2 (Robot de la rampa):** Tira las bolas cuando detecta un colór en específico.
 
 ### 💻 Arquitectura del Código
-El software está programado en **Python/Bloques**.
-
-<br>
 
 El robot de la rampa se divide en estas fases:
 
@@ -87,6 +84,8 @@ El robot de la rampa se divide en estas fases:
 3. **Bucle:** Luego de tirarla, el robot gira y choca contra el muro para crear un ciclo donde queda dando vueltas y tirando las pelotas.
 > [!NOTE]
 > El robot frena su recorrido si detecta la bola rosa (en los dos prototipos).
+>
+> **Está programado en python/bloques**
 
 ---
 
