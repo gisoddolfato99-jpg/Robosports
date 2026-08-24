@@ -72,6 +72,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 > [!IMPORTANT]
 > ### 🕹️ Roles en la Cancha
 > **Robot 1 (Robot del muro):** Tira las bolas mediante los choques.
+> 
 > **Robot 2 (Robot de la rampa):** Tira las bolas cuando detecta un colór en específico.
 
 ### 💻 Arquitectura del Código
