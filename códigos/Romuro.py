@@ -1,3 +1,4 @@
+```shell
 ##imports
 from hub import light_matrix, motion_sensor, port
 import runloop
@@ -249,6 +250,8 @@ async def rosa():
             await runloop.sleep_ms(500)
 
         await runloop.sleep_ms(50)
+
+```
 
 
 ## Main 
