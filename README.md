@@ -12,7 +12,7 @@ Este es el repositorio oficial de Robo Sports de KickTronics.
 
 ## Nuestro Equipo
 * **Categoría de Edad:** Senior
-* **Integrantes:**
+### * **Integrantes:**
   
 * **Yuming Zhen Wang**
   <div align="left">
