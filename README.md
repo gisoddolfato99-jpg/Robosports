@@ -116,7 +116,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 ### Códigos de los robots
 > [!NOTE]
-> https://github.com/gisoddolfato99-jpg/Robosports/blob/82f5cc97d1758ba51a083700d5b16588b7df5a77/c%C3%B3digos/Romuro.py
+> https://github.com/gisoddolfato99-jpg/Robosports/blob/7b36257d28c1a814bc8b996cd1c6eea39508d2ac/c%C3%B3digos/Romuro.md
 
 
 
