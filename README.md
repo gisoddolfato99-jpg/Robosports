@@ -119,7 +119,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 
 ### Requisitos Previos
 * Tener Chrome o cualquier navegador compatible con Lego Spike Prime
-* Kit de Lego Spike
+* [Kit de Lego Spike](https://github.com/LEGO/spike-prime-docs)
 * Tener computadora
 
 ### Códigos de los robots
