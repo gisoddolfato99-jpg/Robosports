@@ -8,7 +8,7 @@
 
 # WRO RoboSports - [Kicktronics] 🎾
 
-Este es el repositorio oficial de Robo Sports de KickTronics.
+Este es el repositorio oficial de [RoboSports](https://github.com/open-robosports) de KickTronics.
 
 ## Nuestro Equipo
 * **Categoría de Edad:** Senior
