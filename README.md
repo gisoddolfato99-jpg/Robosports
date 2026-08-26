@@ -80,7 +80,13 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/5d15b8e690788a2a1fb1196902a3e4971874338b/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.55%20PM.jpeg"/></td><td>
 <img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/5d15b8e690788a2a1fb1196902a3e4971874338b/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.59%20PM.jpeg"/></td></tr></table></div>
 
+<br>
 
+
+<div align="center"><table><tr>Robot de la rampa</tr><tr><td>
+<img src="https://github.com/gisoddolfato99-jpg/Robosports/blob/5d15b8e690788a2a1fb1196902a3e4971874338b/feature/prototipo/1/WhatsApp%20Image%202026-08-24%20at%203.55.55%20PM.jpeg"/></td><td>
+ <video src="https://github.com/gisoddolfato99-jpg/Robosports/blob/1795fb436ec6f787393b677377e39c096e8478c0/feature/pesos/1v.mp4" width="80%" controls></video>/></td></tr></table></div>
+ 
 
 ---
 <br>
