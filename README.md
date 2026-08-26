@@ -87,18 +87,7 @@ Para construir los robots, utilizamos dos idénticos, pero con una distinta estr
 <br>
 
 
-<table>
-  <tr>
-    <td align="center">
-      <p><b>Demostración A</b></p>
-      <video src="https://github.com/gisoddolfato99-jpg/Robosports/blob/1795fb436ec6f787393b677377e39c096e8478c0/feature/pesos/1v.mp4" width="100%" controls></video>
-    </td>
-    <td align="center">
-      <p><b>Demostración B</b></p>
-      <video src="https://github.com" width="100%" controls></video>
-    </td>
-  </tr>
-</table>
+
 
  
 
